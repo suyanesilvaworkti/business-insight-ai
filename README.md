@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Business Insight AI
 
 Agente de inteligência artificial para análise de indicadores de vendas.
@@ -79,3 +80,4 @@ docs/                          documentação
 A base de exemplo tem padrões plantados (anomalias, produto em queda, região em queda,
 aumento de desconto). Veja [docs/base_ficticia.md](docs/base_ficticia.md). Eles servem
 de gabarito: o sistema deve encontrá-los sozinho nas próximas etapas.
+=======
